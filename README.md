@@ -1,5 +1,9 @@
 # Appium Mobile Tests (Android, Java)
 
+## Author
+
+Peter Gamal: [github.com/Potater420](https://github.com/Potater420)
+
 Automated Android tests written with Appium, Java, TestNG and Maven by Peter Gamal.
 
 ## Test classes
