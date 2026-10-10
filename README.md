@@ -1,10 +1,8 @@
 # Appium Mobile Tests (Android, Java)
 
-## Author
+Automated Android tests written with Appium, Java, TestNG and Maven by [Peter Gamal](https://github.com/Potater420).
 
-Peter Gamal: [github.com/Potater420](https://github.com/Potater420)
-
-Automated Android tests written with Appium, Java, TestNG and Maven by Peter Gamal.
+Repository: [github.com/Potater420/appium-mobile-tests](https://github.com/Potater420/appium-mobile-tests)
 
 ## Test classes
 
@@ -41,7 +39,7 @@ Shared driver setup lives in `base/BaseTest.java`.
 
 ## Running the tests
 
-1. Start the emulator.
+1. Start the emulator. Connect only one device or emulator at a time.
 2. Start Appium. For the Chrome test, allow automatic ChromeDriver download:
    ```
    appium --allow-insecure=uiautomator2:chromedriver_autodownload
@@ -91,3 +89,7 @@ Tested on a Xiaomi Redmi Note 11 with `ApkTest`.
 ## Cheat sheet
 
 See [APPIUM_CHEATSHEET.md](APPIUM_CHEATSHEET.md).
+
+## Author
+
+Peter Gamal: [github.com/Potater420](https://github.com/Potater420)
